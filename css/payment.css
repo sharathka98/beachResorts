@@ -1,0 +1,23 @@
+select{
+	height: 25px;
+	line-height: 17px;
+	width: 120px;
+	border: 1px solid #5a4535;
+	border-radius: 2px;
+	}
+	
+#register form table td
+ {
+	padding-bottom: 14px;
+}
+#b{
+    background-color: #009973; /* same as taht of background blue */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+

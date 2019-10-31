@@ -1,0 +1,43 @@
+/*---------- Registartion ---------- */
+#register form {                        /* sets the width and height of the entire form,can change the size of the border box*/
+	float: left;
+	color: #5a4535;
+	height: 800px;   /* changes the height of the border box*/
+	width: 760px;   /*changes width of the border box */
+	border: 1px solid #5a4535;
+	padding: 19px 19px 6px;
+}
+#register form table {
+	border-collapse: collapse;
+}
+#register form table td {
+	padding-bottom: 12px;
+}
+#register input.btn {
+	background: url(../images/btn-send.png) no-repeat -70px 0;
+	cursor: pointer;
+	height: 26px;
+	width: 60px;
+	border: 0;
+	padding: 0;
+	margin: 0;
+}
+#register textarea {
+	height: 130px;
+	line-height: 20px;
+	width: 338px;
+	border: 1px solid #5a4535;
+	border-radius: 2px;
+	overflow: auto;
+	resize: none;
+}
+#register input.btn:hover {
+	background-position: 0 0;
+}
+#register form input {
+	height: 30px;
+	line-height: 17px;
+	width: 250px;
+	border: 1px solid #5a4535;
+	border-radius: 2px;
+}

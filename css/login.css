@@ -1,0 +1,43 @@
+/*---------- Registartion ---------- */
+#register form {
+	float: left;
+	color: #5a4535;
+	height: 100px;
+	width: 100px;
+	border: 1px solid #5a4535;
+	padding: 19px 19px 6px;
+}
+#login form table {
+	border: 1px solid;
+	border-collapse: collapse;
+}
+#login form table td {
+	padding-bottom: 12px;
+	padding-top:12px;
+	padding-left:15px;
+	padding-right:15px;
+}
+#login input.btn {
+	background: url(../images/btn-send.png) no-repeat -70px 0;
+	cursor: pointer;
+	height: 26px;
+	width: 60px;
+	border: 0;
+	padding: 0;
+	margin: 0;
+}
+#login input.btn:hover {
+	background-position: 0 0;
+}
+#login form input {
+	height: 30px;
+	line-height: 17px;
+	width: 250px;
+	border: 1px solid #5a4535;
+	border-radius: 2px;
+}
+
+#page {
+	width: 960px;
+	margin: 0 auto;
+}

@@ -1,0 +1,14 @@
+#userborder {                        /* sets the width and height of the entire form,can change the size of the border box*/
+	float: left;
+	color: #5a4535;
+	min-height: 850px;   /* changes the height of the border box*/
+	width: 760px;   /*changes width of the border box */
+	border: 1px solid #5a4535;
+	padding: 19px 19px 6px;
+}
+#profile  td {
+	border-collapse: collapse;
+}
+#profile  table td {
+	padding-bottom: 14px;
+}

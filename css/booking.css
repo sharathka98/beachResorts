@@ -1,0 +1,42 @@
+#bookborder {                        /* sets the width and height of the entire form,can change the size of the border box*/
+	float: left;
+	color: #5a4535;
+	min-height: 850px;   /* changes the height of the border box*/
+	width: 760px;   /*changes width of the border box */
+	border: 1px solid #5a4535;
+	padding: 19px 19px 6px;
+}
+#book  td {
+	border-collapse: collapse;
+	font-size:17px;
+}
+#book table td {
+	padding-bottom: 14px;
+}
+ form input {
+	height: 25px;
+	line-height: 17px;
+	width: 120px;
+	border: 1px solid #5a4535;
+	border-radius: 2px;
+}
+select
+{
+	height: 25px;
+	line-height: 17px;
+	width: 200px;
+	border: 1px solid #5a4535;
+	border-radius: 2px;
+}
+
+#b{
+    background-color: #009973; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
